@@ -1,0 +1,35 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cceeff; /* light blue */
+}
+h1 {
+    text-align: center;
+    color: #004d4d; /* dark green */
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.menu-item {
+    border: 1px solid #004d4d; /* dark green */
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #e6ffee; /* light green */
+    box-shadow: 3px 3px 5px #888888;
+}
+.menu-item h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #004d4d; /* dark green */
+}
+.menu-item p {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #006666; /* medium green */
+}
+.menu-item span {
+    float: right;
+    font-weight: bold;
+    color: #004d4d; /* dark green */
+}
+</style>
